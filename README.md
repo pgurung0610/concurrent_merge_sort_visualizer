@@ -6,7 +6,7 @@ sorting process is displayed as such:
 
 <a href="https://imgflip.com/gif/3lvpli"><img src="https://i.imgflip.com/3lvpli.gif" title="made at imgflip.com"/></a>
 
-#Requirements
+# Requirements
 - Java SE 11
 
 # Instructions

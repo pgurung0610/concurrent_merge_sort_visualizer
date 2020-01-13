@@ -4,7 +4,6 @@
 #macOS
 *.DS_Store
 
-
 # Gradle template
 .gradle/
 build/
